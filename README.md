@@ -67,8 +67,8 @@ Gradio
 BitsAndBytes (for 4-bit quantization if using Mistral-Hermes)
 
 ```
-git clone https://github.com/yourusername/clinical-rag.git
-cd clinical-rag
+git clone https://github.com/Maham-1234/rag-Diagnostic-DiReCT.git
+cd rag-Diagnostic-DiReCT
 ```
 
 ## Frontend
